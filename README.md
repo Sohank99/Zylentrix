@@ -19,7 +19,9 @@ Created new columns such as Age Group
 Merged datasets on Student_ID and Course_ID
 
 📈 Exploratory Data Analysis (EDA)
+
 Key Questions Answered:
+
 📌 What is the overall average course completion rate?
 
 ⏱️ Which course has the highest and lowest average engagement time?
@@ -33,6 +35,7 @@ Key Questions Answered:
 🏆 What are the top 3 student segments based on engagement and satisfaction?
 
 📊 Visualizations
+
 Bar charts showing engagement across demographics
 
 Heatmap of correlation between variables
@@ -42,6 +45,7 @@ Scatter plot of completion vs rating
 Time trends and rating comparisons by course
 
 💡 Insights & Recommendations
+
 Overall completion rate is ~54.78%
 
 Highest engagement: DM101, Lowest: PY202
@@ -53,8 +57,9 @@ Feedback and engagement don't strongly correlate
 Recommendations made to improve course engagement and satisfaction
 
 🔧 Tools Used
+
 Python (Pandas, Matplotlib, Seaborn)
 
 Jupyter Notebook in VS Code
 
-Git & GitHub for version control
+GitHub for version control.
